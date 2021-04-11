@@ -1,3 +1,3 @@
-# CryptoPups
+# nextjs-tailwind-ts
 
-This website is currently undergoing development...
+Just my personal starter for NextJS w/ Tailwind in Typescript
