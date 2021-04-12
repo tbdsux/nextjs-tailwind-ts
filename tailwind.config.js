@@ -1,6 +1,7 @@
 module.exports = {
   mode: 'jit',
-  purge: ['./pages/**/*.js', './components/**/*.js'],
+  // NOTE: configure this if you have another folder with tsx files or (that uses stylinggs)
+  purge: ['./src/pages/**/*.tsx', './src/components/**/*.tsx'],
   darkMode: false, // or 'media' or 'class'
   theme: {
     // NOTE: Add the lines below if you want to add a google font
