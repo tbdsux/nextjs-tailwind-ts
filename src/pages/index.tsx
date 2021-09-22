@@ -1,4 +1,4 @@
-import Seo from '@components/Seo';
+import Seo from '../components/Seo';
 import DefaultLayout from '../layouts/Default';
 
 export default function Home() {
